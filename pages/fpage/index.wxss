@@ -1,0 +1,12 @@
+/* pages/fpage/index.wxss */
+
+.weui-cells_access {
+  position: fixed;
+  width: 200px;
+  margin-top: 0;
+}
+
+.input_index_search {
+  background: #777;
+  border-color: red;
+}

@@ -1,0 +1,6 @@
+<!--pages/fpage/index.wxml-->
+<view>
+  <input class="input_index_search"></input>
+  <checkbox checked='true'></checkbox>
+<iframe class="page" width="100px" height="220px" src="http://www.baidu.com" ></iframe >
+</view>
